@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"base" "base"
+	"title" "Call of Baron - Ausländer-Behörde"
+	"maps" "^gm_"
+	"menusystem" "1"
+	
+	"Settings"
+
+
+
+}
